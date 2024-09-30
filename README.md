@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kunal Sapkal</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">A skilled Machine Learning Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunu002" alt="kunu002" /></a> </p>
 
-- 🔭 I’m currently working on **Secure Web Browsing Extension**
+- 🔭 I’m currently working on **Veda-VisionGPT**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
+- 🌱 I’m currently learning **LLMops Development Lifecycle**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to work on **Advanced Generative AI Projects**
 
-- 🤝 I’m looking for help with **No Code Software Development Tools**
-
-- 💬 Ask me about **Python , Java , SQL**
+- 💬 Ask me about **Python , Java , SQL, Machine Learning, Deep Learning, Generative AI, Software Development, Data Science**
 
 - 📫 How to reach me **kunalsapkal67@gmail.com**
 
