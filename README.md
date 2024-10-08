@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Veda-visionGPT**
 
-- 🌱 I’m currently learning **Data Engineer.**
+- 🌱 I’m currently learning **Data Engineering , Gen-AI Engineering.**
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
 
