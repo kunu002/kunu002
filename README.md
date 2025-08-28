@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunu002" alt="kunu002" /></a> </p>
 
-- 🔭 I’m currently working on **Veda-visionGPT**
+- 🔭 I’m currently working on **Agentic Workflows**
 
-- 🌱 I’m currently learning **Data Engineering , Gen-AI Engineering.**
+- 🌱 I’m currently learning **Gen-AI Engineering.**
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
 
-- 🤝 I’m looking for help with **Azure Data Engineering Certification.**
+- 🤝 I’m looking for help with **Azure AI Engineering Certification.**
 
 - 💬 Ask me about **Python, Machine Learning , Deep Learning , Generative AI.**
 
